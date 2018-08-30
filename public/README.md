@@ -1,3 +1,5 @@
+Thanks to James C Grundner Sr.
+
 # Slim Framework 3 Skeleton Application
 
 ## Installing the framework and inital test.
