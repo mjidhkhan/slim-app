@@ -9,7 +9,7 @@ Open a terminal, change to the directory where you keep your sourcecode and inst
 
 ```shell
 $ composer create-project slim/slim-skeleton <project-name>
-$ cd slim-oo
+$ cd <project-name>
 $ composer update
 ```
 
