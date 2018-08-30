@@ -1,8 +1,8 @@
 {
-	"name": "slim/slim-skeleton",
+	"name": "slim/slim-app",
 	"description": "A Slim Framework skeleton application for rapid development",
 	"keywords": [ "microframework", "rest", "router", "psr7" ],
-	"homepage": "http://github.com/slimphp/Slim-Skeleton",
+	"homepage": "",
 	"license": "MIT",
 	"authors": [
 		{
